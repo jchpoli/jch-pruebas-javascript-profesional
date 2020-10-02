@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del Cusro profesional de JavaScript platzi",
+  "author": "Jonathan Castelblanco Higuera",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "platzi"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "2.0.5",
+    "typescript": "^3.9.7"
+  },
+  "browserlist": [
+    "last 1 Chrome version"
+  ]
+}
